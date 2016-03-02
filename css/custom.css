@@ -15,7 +15,7 @@ h1, h2, h3, .myName{
 <!----------------------------------------------------------->*/
 
 .body {
-  position: 
+  position:
   padding-top: 100px;
 }
 
@@ -90,7 +90,7 @@ h1, h2, h3, .myName{
     background-color: #c2debe;
   }
 }
-   
+
 
 .myName {
   font-size: 35px;
@@ -116,19 +116,19 @@ h1, h2, h3, .myName{
 }
 
 /*<!------------------- BODY: JUMBOTRON --------------------->*/
-      
+
 .jumbotron {
   background-color: aliceblue;
   padding: 80px;
   border: 4px solid black;
 }
-  
+
 /*<!------------------- BODY: THUMBNAILS -------------------->*/
 
 .smallHeader {
   text-align: center;
   margin-bottom: 20px;
-}    
+}
 
 .imgSpace {
   background-color: #c2debe;
@@ -156,8 +156,11 @@ h1, h2, h3, .myName{
   background-color: lightpink;
 }
 
+.bottomIcons {
+  margin-top: -14px;
+  margin-left: -1.5px;
+}
 
-/*
 .footerAll {
   padding-top: 10px;
   padding-bottom: 10px;
@@ -170,18 +173,6 @@ h1, h2, h3, .myName{
   align-content: center;
 }
 
-.bottomIcons {
-  margin-top: -14px;
-  margin-left: -1.5px;
-}
+/*
+
 */
-
-
-
-
-
-
-
-
-
-
